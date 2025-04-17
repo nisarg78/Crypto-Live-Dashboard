@@ -1,4 +1,6 @@
-# Crypto Live Dashboard
+# 💹 Crypto Live Dashboard
+
+🎥 **Watch the demo video on [LinkedIn](https://www.linkedin.com/posts/nisarg-zaveri_crypto-python-ai-activity-7318483666244890624-kLDc?utm_source=share&utm_medium=member_desktop&rcm=ACoAACiELHABqqbC_jOmZCbb6r9Lq9uDbKRiSeY)**
 
 A modern, interactive Streamlit application that provides real-time cryptocurrency data, technical analysis, and AI-driven insights.
 
@@ -38,12 +40,12 @@ pip install -r requirements.txt
 ## 🛠️ Installation & Setup
 
 1. **Clone the repo**
-   ```bash
+```bash
 git clone <repo_url>
 cd "Crypto Live Dashboard"
 ```
 2. **Install requirements**
-   ```bash
+```bash
 pip install -r requirements.txt
 ```
 3. **API Keys**
@@ -53,7 +55,7 @@ pip install -r requirements.txt
      HF_API_TOKEN = "YOUR_HF_API_TOKEN"
      ```
 4. **Run the app**
-   ```bash
+```bash
 streamlit run Home.py
 ```
 
